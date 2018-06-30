@@ -2,4 +2,4 @@
 
 新旧闻  https://github.com/1024china/t66y/issues/1
 
-翻墙VPS 
+翻墙VPS https://github.com/1024china/t66y/issues/2
